@@ -1,15 +1,5 @@
-# 🧠 Dynamic Programming Daily 🚀  
+# 🧠 Dynamic Programming 🚀  
 A daily journey to master **Dynamic Programming** — one problem at a time!
-
----
-
-## 📅 Daily Log
-
-*(Log of daily problems will go here — update daily)*
-
----
-
-## 🔁 Updated daily with new problems and learnings!
 
 ---
 
@@ -36,15 +26,14 @@ A daily journey to master **Dynamic Programming** — one problem at a time!
 
 ## 📚 Resources I'm Using
 
-- [NeetCode DP Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)  
-- [DP Patterns - Leetcode Discuss](https://leetcode.com/discuss/general-discussion/475924/My-experience-and-all-you-need-to-know-about-DP)  
-- [CP Algorithms - Dynamic Programming](https://cp-algorithms.com/dynamic_programming/)  
+- [Striver DP Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)  
+- [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#)  
 
 ---
 
 ## 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-kumar-mukhi-416b33249)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradip462)
 
 ---
