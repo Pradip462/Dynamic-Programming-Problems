@@ -13,15 +13,6 @@ A daily journey to master **Dynamic Programming** — one problem at a time!
 - ✅ DP with Bitmasking  
 - ✅ DP on Subsequences  
 - ✅ State Optimization  
-
----
-
-## 📈 Progress Tracker
-
-- ✅ Days Completed: 2  
-- 🧠 Problems Solved: 2  
-- 🔥 Streak: 2 days  
-
 ---
 
 ## 📚 Resources I'm Using
