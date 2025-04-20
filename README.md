@@ -18,7 +18,7 @@ A daily journey to master **Dynamic Programming** — one problem at a time!
 ## 📚 Resources I'm Using
 
 - [Striver DP Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)  
-- [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#)  
+- [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/)  
 
 ---
 
